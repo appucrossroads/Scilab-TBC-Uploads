@@ -10,4 +10,4 @@ disp(s);
 printf("\tstring x=");
 disp(x);
 printf("\tconcatenated string z=");
-disp(z);........//dispalying concatenated string.
+disp(z);........//dispalying concatenated
