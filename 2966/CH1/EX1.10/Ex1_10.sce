@@ -17,4 +17,4 @@ P=P_sample*1000//permanent hardness per litre(ppm)//
 T=To-P
 printf("\nTotal Hardness is %.f ppm",To);
 printf("\nPermanent Hardness is %.f ppm",P);
-printf("\nTemporary Hardness is %.f ppm",T);
+printf("\nTemporary Hardness is %.f ppm",T;
