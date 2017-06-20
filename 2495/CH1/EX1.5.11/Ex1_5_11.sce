@@ -13,5 +13,4 @@ P21=P2*(R1*1000/R2)
 printf('\nP21=%.1d atm',P21)
 
 //There are some errors in the solution given in textbook
-//page 23
-
+//page 2
