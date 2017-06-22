@@ -8,3 +8,5 @@ function y=f(z);
     y=z/(z-1) //upon simplification of the given equation 
 endfunction
 intc(1+%i,2-%i,f)
+
+// test
