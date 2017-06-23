@@ -25,3 +25,6 @@ r=nq1+nq2+nq3+nq4;
 disp("Samples/sec",r,"iii)Signaling rate");
 bw=r/2;
 disp("Hz",bw,"iv)Minimum channel bandwidth");
+
+
+// test
