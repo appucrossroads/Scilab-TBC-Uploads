@@ -12,3 +12,5 @@ disp("  CT = K / [VR+VJ]^n")
 format(10)
 k=(41.82*10^-12)*((4.2+0.7)^(1/3))
 disp(k,"Therefore,  K = ")
+
+// test
