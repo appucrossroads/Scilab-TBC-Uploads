@@ -63,3 +63,5 @@ function[]=stringvalid(str)
   stringvalid(['(' 'A' '+' 'B' ')' '-' '{' 'C' '+' 'D' '}' '-' '[' 'F' '+' 'G' ']'])
   stringvalid(['(' '(' 'H' ')' '*' '{' '(' '[' 'J' '+' 'K' ']' ')' '}' ')'])
   stringvalid(['(' '(' '(' 'A' ')' ')' ')'])
+  
+// test
