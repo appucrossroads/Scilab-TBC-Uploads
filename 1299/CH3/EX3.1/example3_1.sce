@@ -23,3 +23,5 @@ n3=(s+1);
 d3=((s^2)*(s+2));
 C=n3/d3
 disp("since two integration is being observed, it is TYPE 2 system")
+
+// test
