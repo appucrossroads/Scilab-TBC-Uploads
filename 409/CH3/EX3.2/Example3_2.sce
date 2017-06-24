@@ -27,3 +27,5 @@ printf(' H2             %.2f         %.2f       %.0f     \n',ml4,mw4,m4);
 printf('\n Total          %.2f        %.2f      %.0f       \n',ml1+ml2+ml3+ml4,mw1+mw2+mw3+mw4,m1+m2+m3+m4);
 av_m = (m1+m2+m3+m4)/100 ;//[kg]
 printf('\nAverage molecular mass of gas is %.1f kg.\n',av_m);
+
+// test
