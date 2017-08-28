@@ -11,5 +11,4 @@ J=sigma*E;//current density
 disp('A/m^2',J*1,"J=");
 
 // test
-
-// test
+feaf
