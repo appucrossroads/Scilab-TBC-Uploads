@@ -19,3 +19,6 @@ endfunction
 //Calling routine
 a=[3 223 212 343]
 avg=average(a)
+
+// sfesf 
+fse ef 
