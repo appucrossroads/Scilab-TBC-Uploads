@@ -22,3 +22,5 @@ avg=average(a)
 
 // sfesf 
 fse ef 
+efef
+fefsf
